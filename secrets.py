@@ -1,2 +1,2 @@
-spotify_user_id = "1171868383"
-spotify_token = "BQALjpWlAG_FlLBCjAWaf27VaxZDNJCAebrB60hVFwhusoVW_xjE5Ol0v1NPArE4yNH6zYonQqiD73DVKIqXjZCqtgQz_WKTQ9sMWthBwjrk-GcyImcHhKmhxPJmw1Z4uFBnRrOuf26ooNpwgJz4P-xSKom9P-UxzeNFVRFyXdpB_OA"
+spotify_user_id = "user_id"
+spotify_token = "token"
